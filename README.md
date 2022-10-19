@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greyman666
+- 👋 Hi, I’m @Winchester Tuazon
 - 👀 I’m interested in making software and also learn how to hack
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on making software and sharing codes
