@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Winchester Tuazon
-- 👀 I’m interested in making software and also learn how to hack
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on making software and sharing codes
-- 📫 How to reach me Winchestertuazon343@gmail.com
+In this project we are working in different roles on a team to complete a website. We each have different tasks to complete to finish the project.
 
-<!---
-greyman666/greyman666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The purpose of this project is to prepare us for how projects are done in the workspace. This will show us how to to team work in a work place
+
+Project Manager - Jack
+Developer - Aakesh
+Designer - Nate
+Tester - Winchester
